@@ -1,0 +1,39 @@
+1.
+URL: https://amazon.com/Double-Stainless-Commercial-Refrigerator/B60HON32?ie=UTF8&qid=142952676&sr=93&keywords=commercial+fridge
+
+a. host: amazon.com
+
+b. names of query parameters: ie, qid, sr, keywords
+
+c. values of query parameters: UTF8, 142952676, 93, commercial + fridge
+
+d. scheme: https
+
+e. path: /Double-Stainless-Commercial-Refrigerator/B60HON32
+
+f. port: none
+
+2.
+http://amazon.com:3000/products/B60HON32?qid=142952676&sr=93
+
+3.
+http://localhost:4567/todos/15
+
+a. query parameters: none
+
+b. scheme: http
+
+c. path: /todos/15
+
+d. host: localhost
+
+e. port : 4567
+
+4. One way to encode a space in a query parameter is to use it's ASCII encoded value of %20.
+Another way is to use a '+' sign.
+
+5. The '?' indicates the beginning of query parameters.
+
+6.  A '=' sign is used between names and values of query parameters.
+
+7. The '&' character is used between multiple query parameters.

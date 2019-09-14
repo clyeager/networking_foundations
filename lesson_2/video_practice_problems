@@ -1,0 +1,6 @@
+1. The required components of an HTTP request are the host header, method and the path. Optional components include parameters, other headers, and the body.
+
+2. The required component of an HTTP response is the status code, while the headers and body are optional.
+
+3. GET is used as the HTTP method when you wish to retrieve some data from the server. POST is used when you
+ would like to send or change some data on the server.
